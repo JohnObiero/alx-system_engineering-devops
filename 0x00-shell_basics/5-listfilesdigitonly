@@ -1,1 +1,3 @@
-pwd
+#!/bin/bash
+ls -la
+ls -a
