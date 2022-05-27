@@ -1,1 +1,1 @@
-script that list files
+script printing named file
