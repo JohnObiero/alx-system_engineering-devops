@@ -1,1 +1,1 @@
-task 7
+delect file betty
