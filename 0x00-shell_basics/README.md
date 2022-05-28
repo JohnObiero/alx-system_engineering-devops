@@ -1,1 +1,1 @@
-script creating directory
+task 7
