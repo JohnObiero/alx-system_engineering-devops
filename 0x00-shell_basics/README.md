@@ -1,1 +1,1 @@
-script printing named file
+symbolic link
