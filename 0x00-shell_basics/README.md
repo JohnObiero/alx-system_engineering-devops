@@ -1,1 +1,1 @@
-changes directory
+script creating directory
