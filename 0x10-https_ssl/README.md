@@ -14,10 +14,3 @@ SSL termination
 
 Bash function
 
-man or help:
-
-
-
-awk
-
-dig
